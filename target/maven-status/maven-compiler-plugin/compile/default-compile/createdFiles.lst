@@ -1,0 +1,6 @@
+com/howtodoinjava/kafka/demo/service/KafKaConsumerService.class
+com/howtodoinjava/kafka/demo/service/KafKaProducerService.class
+com/howtodoinjava/kafka/demo/model/User.class
+com/howtodoinjava/kafka/demo/SpringBootKafkaAppApplication.class
+com/howtodoinjava/kafka/demo/controller/KafkaProducerController.class
+com/howtodoinjava/kafka/demo/common/AppConstants.class
